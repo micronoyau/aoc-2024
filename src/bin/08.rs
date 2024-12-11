@@ -1,5 +1,5 @@
 advent_of_code::solution!(8);
-use anyhow::{anyhow, Context, Result};
+use anyhow::{anyhow, Result};
 use std::collections::{HashMap, HashSet};
 use std::ops::{BitXor, Div};
 use std::rc::Rc;
