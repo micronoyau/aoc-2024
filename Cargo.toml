@@ -33,3 +33,4 @@ bumpalo = "3.16.0"
 ndarray = "0.16.1"
 regex = "1.11.1"
 strum = { version = "0.26.3", features = ["derive"] }
+pathfinding = "4.12.0"
